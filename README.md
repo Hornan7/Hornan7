@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-I am 40 years old and father of four beautiful childrens. I am a Diesel Mechanic by trade and I like to read obsessively about everything that I cannot understand. I am fascinated by Cardano and its governance mechanisms. I aspire to learn every technical aspect of this blockchain. I also aspire to transmit my knowledge to as many people as possible, in as many languages ​​as possible with the collaboration of other SPOs and community members. I am deeply interested in Haskell, Python, HTML, Javascript, and everything about Linux server administration.
+I am 40 years old and father of four beautiful childrens. I am fascinated by Cardano and its governance mechanisms. I aspire to learn every technical aspect of this blockchain. I also aspire to transmit my knowledge to as many people as possible, in as many languages ​​as possible with the collaboration of other SPOs and community members. I am deeply interested in Haskell, Python, HTML, Javascript, and everything about Linux server administration.
 
 I am a passionate infographics designer and I am always on the lookout for new projects to work on and new people to collaborate with. Do check out my repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project.
 
